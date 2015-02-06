@@ -57,18 +57,3 @@ owner:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
-
-# languages
-defaults:
-  -
-    scope:
-      path: _posts/en
-    values:
-      layout: post
-      lang: en
-  -
-    scope:
-      path: _posts/pl
-    values:
-      layout: post
-      lang: pl
