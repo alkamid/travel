@@ -13,6 +13,12 @@
 				    {% endif %}
 				    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
 				{% endfor %}
+			<li class="lang">
+			{% assign posts=site.posts | where:"name", page.name | sort: 'path' %}
+			{% for post in posts %}
+				    <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+			{% endfor %}
+			</li>
 		    </ul>
 		</nav>
 	</div><!-- /.top-navigation -->
