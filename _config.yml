@@ -2,7 +2,7 @@
 
 title:            Alkamid in the lab
 locale:           pl_PL
-url:              http://alkamid.github.io
+#url:              http://alkamid.github.io
 
 
 # Jekyll configuration
@@ -57,3 +57,17 @@ owner:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+
+# Multiple languages
+
+defaults:
+  -
+    scope:
+      path: _posts/en
+    values:
+      lang: en
+  -
+    scope:
+      path: _posts/pl
+    values:
+      lang: pl
