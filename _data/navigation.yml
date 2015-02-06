@@ -5,3 +5,18 @@
 
 - title: Wpisy
   url: /posts/
+
+en:
+  journal:
+    title: "posts"
+    url:   "/posts"
+  about:
+    title: "about"
+    url:   "/about/"
+pl:
+  journal:
+    title: "wpisy"
+    url:   "/wpisy/"
+  about:
+    title: "o mnie"
+    url:   "/o-mnie/"
