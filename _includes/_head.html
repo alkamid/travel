@@ -1,7 +1,7 @@
 <html lang="{{ page.lang }}">
 
 <meta charset="utf-8">
-<title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
+<title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.data.translations[page.lang].title }}</title>
 {% if page.excerpt %}<meta name="description" content="{% if page.type == 'pages' %}{{ site.t[page.lang].excerpt }}{% else %}{{ page.excerpt | strip_html | replace: "[[", " ("  | replace: "]]", ")" }}{% endif %}">{% endif %}
 <meta name="keywords" content="{{ page.tags | join: ', ' }}">
 {% if page.author %}

@@ -1,4 +1,6 @@
 en:
+  home:
+    url: "/"
   journal:
     title: "posts"
     url:   "/posts"
@@ -6,6 +8,8 @@ en:
     title: "about"
     url:   "/about/"
 pl:
+  home:
+    url: "/pl"
   journal:
     title: "wpisy"
     url:   "/wpisy/"

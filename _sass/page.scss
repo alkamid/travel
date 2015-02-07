@@ -92,11 +92,11 @@ body {
 		}
 	}
 	.lang {
-	      float: right;
+	      float: left;
 	}
- 	 a:hover, .pl:lang(pl), .en:lang(en) {
-  	   color: #ff0000;
-	   }
+ 	a:hover, .pl:lang(pl), .en:lang(en) {
+  	   color: red;
+	  }
 }
 
 /* Animated lines for mobile nav button */
