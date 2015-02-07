@@ -1,17 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Cambridge - wybór college'u
-author:
-  display_name: alkamid
-  login: alkamid
-  email: adamkli@gmail.com
-  url: ''
-categories:
-- Cambridge
-tags: []
-comments: []
+comments: true
 ---
 
 Pierwszy problem, który rozwiązać musi przyszły student, to wybór college'u. Czym jest college? Dobre pytanie. Ni to uniwersytet, ni to akademik, ni to wydział... Powiedzmy że <em>University of Cambridge</em> to nazwa zbioru różnych instytucji: college'ów, wydziałów i różnych jednostek administracyjnych, informatycznych i tym podobnych. College to zazwyczaj kompleks budynków, w którym student pierwszego stopnia (<em>undergraduate</em>) uczy się, je, śpi, nawiązuje znajomości, imprezuje i rozwija swoje zainteresowania. Doktorant odejmuje od tego uczenie się (bo pracuje na wydziale), częściej też mieszka poza college'em. Taki college ma własną restaurację, portierów, sale wykładowe, obiekty sportowe, kaplicę, chór, dział informatyczny, ogrodników, i tak dalej. Są college stare (np. <a title="Peterhouse" href="https://commons.wikimedia.org/wiki/File:Cambridge_Peterhouse_OldCourt.JPG" target="_blank">Peterhouse z 1284</a>), są i nowe (np. <a title="Churchill college" href="https://commons.wikimedia.org/wiki/File:8118899-exterior3-max.jpg" target="_blank">Churchill</a> sprzed 50 lat), tradycyjne i nowoczesne, prawicowe i lewicowe, żeńskie i doktoranckie... ale na ich temat powstała już niejedna książka, więc nie będę marnował pikseli. Dociekliwych odsyłam na przykład <a title="college" href="http://www.applytocambridge.com/colleges/" target="_blank">tutaj</a>.<i> </i></p>
