@@ -2,6 +2,7 @@
 layout: post
 title: Doktorat w Cambridge - po kolei
 comments: true
+name: doktorat-po-kolei
 ---
 
 Skoro już tu jestem, grzechem byłoby nie podzielić się z innymi doświadczeniem, które zdobywa się w ciągu siedmiomiesięcznego (sic!) procesu aplikacji. Zacznijmy od chronologii:
