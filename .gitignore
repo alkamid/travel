@@ -1,5 +1,5 @@
 # config file - url is different on site and locally #
-_config.yml
+#_config.yml
 
 _site
 .sass-cache
