@@ -2,6 +2,7 @@
 layout: post
 title: First Year Report
 name: fyr
+comments: true
 ---
 
 Let's write about writing. Here in Cambridge, for the first year of my PhD I am not actually a PhD student — I am on the **probationary** year. By the end of June I am expected to submit the **first year report (FYR)**. The name speaks for itself: it is a progress report from the past year. It has a word limit of 12000 (varies slightly between the departments).
@@ -18,7 +19,4 @@ To make the writing period a) more pleasant b) shorter, I decided to take a few 
 
 Here is my progress plot, just because I wanted to try out <del>Google Visualisation API</del> (I found a much better tool: plot.ly). The first significant increase on Monday was when I added the introduction, and the second when I included bibliography, figure captions etc.
 
-<div>
-    <a href="https://plot.ly/~alkamid/50/" target="_blank" title="First Year Report progress by day (in number of words)" style="display: block; text-align: center;"><img src="https://plot.ly/~alkamid/50.png" alt="First Year Report progress by day (in number of words)" style="max-width: 100%;"  onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="alkamid:50" src="https://plot.ly/embed.js" async></script>
-</div>
+<iframe width="640" height="480" frameborder="0" seamless="seamless" scrolling="no" src="https://plot.ly/~alkamid/50.embed?width=640&height=480" ></iframe>
