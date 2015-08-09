@@ -1,8 +1,9 @@
 # Site wide configuration
 
-title:            Alkamid in the lab
+title:            Alkamid in the world
 locale:           pl_PL
 url:              http://alkamid.com
+baseurl:	  /travel
 
 
 # Jekyll configuration
@@ -28,9 +29,9 @@ kramdown:
 owner:
   name: alkamid
   avatar: adam_klimont-sm.jpg
-  bio: "Living in the Cambridge bubble"
+  bio: "Learning to understand"
   email: 
-  disqus-shortname: alkamid-lab
+  disqus-shortname: alkamid-travel
   twitter: #username
   facebook: #username
   google:
