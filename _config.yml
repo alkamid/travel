@@ -2,13 +2,12 @@
 
 title:            Alkamid in the world
 locale:           pl_PL
-url:              http://alkamid.com
-baseurl:	  /travel
+url:              http://alkamid.com/travel
 
 
 # Jekyll configuration
 
-permalink:   /travel/:title/
+permalink:   /:title/
 markdown:    kramdown
 highlighter: pygments
 sass:
