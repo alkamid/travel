@@ -736,3 +736,14 @@ $button-size: 1.5rem;
 #goog-wm-sb {
 	@extend .btn;
 }
+/*
+   Custom additions
+   ================*/
+
+.article-wrap p {
+  font-size: 20px; /* 16 is the default increase if you want it larger */
+}
+
+.article-wrap ul {
+  font-size: 20px; /* 16 is the default increase if you want it larger */
+}
