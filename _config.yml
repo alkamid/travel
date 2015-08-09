@@ -8,7 +8,7 @@ baseurl:	  /travel
 
 # Jekyll configuration
 
-permalink:   /:title/
+permalink:   :baseurl/:title/
 markdown:    kramdown
 highlighter: pygments
 sass:
