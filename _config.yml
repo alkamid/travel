@@ -27,7 +27,7 @@ kramdown:
 # Site owner
 owner:
   name: alkamid
-  avatar: adam_klimont-sm.jpg
+  avatar: z_gor.png
   bio: "Learning to understand"
   email: 
   disqus-shortname: alkamid-travel
@@ -40,7 +40,7 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: alkamid
+  github: #username
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
